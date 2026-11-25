@@ -57,7 +57,12 @@ Linuxlab/
 ├── 06-shell-programming/
 └── 07-additional-linux-topics/
     ├── README.md
-    ├── notes/
+    ├── 01-additional-linux-commands.md
+    ├── 02-additional-file-directory-commands.md
+    ├── 03-advanced-file-permissions.md
+    ├── 04-additional-text-processing-commands.md
+    ├── 05-shell-scripting-concepts.md
+    ├── 06-shell-programming-practice.md
     └── scripts/
 ```
 
