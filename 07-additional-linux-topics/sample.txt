@@ -1,0 +1,3 @@
+Linux is an operating system.
+Shell scripting automates tasks.
+Practice Linux commands every day.
